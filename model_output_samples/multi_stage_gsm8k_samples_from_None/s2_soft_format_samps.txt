@@ -1,0 +1,47 @@
+--------------------
+Response:
+After carefully following the instructions, I will provide the calculation for both Susy and Sarah.
+
+**Susy's Calculation:**
+1. Initially, Susy has 100 followers.
+2. After Week 1, she gains 40 new followers.
+   - New followers after Week 1: \(100 + 40 = 140\) followers.
+3. After Week 2, she gains half of the new followers from Week 1.
+   - Followers gained in Week 2: \(140 / 2 = 70\) followers.
+   - New followers after Week 2: \(140 + 70 = 210\) followers.
+4. After Week 3, she gains half of the new followers from Week 2.
+   - Followers gained in Week 3: \(210 / 2 = 105\) followers.
+   - Total followers after three weeks: \(210 + 105 = 315\) followers.
+
+Susy's total followers after three weeks = 315 followers.
+
+**Sarah's Calculation:**
+1. Initially, Sarah has 100 followers.
+2. After Week 1, she gains 90 new followers.
+   - New followers after Week 1: \(100 + 90 = 190\) followers.
+3. After Week 2, she gains a third of the new followers from Week 1.
+   - Followers gained in Week 2: \(190 / 3\) followers (since 90 / 3 = 30), which is approximately 63 (since 90 / 3 = 30 and 2 * 30 = 60).
+   - New followers after Week 2: \(190 + 63 = 253\) followers.
+4. After Week 3, she gains a third of the new followers from Week 2.
+   - Followers gained in Week 3: \(253 / 3\) followers (since 63 / 3 = 21 and 3 * 21 = 63), which is approximately 21.
+   - Total followers after three weeks: \(253 + 21 = 274\) followers.
+
+Sarah's total followers after three weeks = 274 followers.
+
+Therefore, the correct numbers are:
+- Susy: 315
+- Sarah: 274
+
+Matches? None--------------------
+Response:
+<compare>
+Alice's answer of 22 miles is correct, and no other answer is correct.
+</compare>
+<explain>
+Alice's answer correctly calculates the total distance she walks for the week, totaling 22 miles.
+</explain>
+<identify>
+Student #0
+</identify>
+
+Matches? None

@@ -1,0 +1,17 @@
+--------------------
+Response:
+Student #14 has the correct answer, which is 15 roses.
+
+Matches? None--------------------
+Response:
+<compare>
+Student #0 vs. Marta sells tomatoes in a grocery store.
+</compare>
+<explain>
+Student #0 suggested that they sold 300 kg on Saturday, but did not specify the second shipment. The question asks how many kilograms Marta had ready for sale on Tuesday, so the correct answer should include the shipment mentioned in the question.
+</explain>
+<identify>
+Student #0
+</identify>
+
+Matches? None
